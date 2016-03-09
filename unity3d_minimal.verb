@@ -39,7 +39,7 @@ load_unity3d_minimal () {
 	# 4.6.2: http://netstorage.unity3d.com/unity/UnitySetup-4.6.2.exe 998ee6e843461e2fb9e89c2dccd0721b7b2101b7
 	# 5.0.1: http://netstorage.unity3d.com/unity/5a2e8fe35a68/UnityDownloadAssistant.exe f9ac43b9455274065c2ea8e447a52509227fe784
 	# 5.0.2: http://netstorage.unity3d.com/unity/0b02744d4013/UnityDownloadAssistant-5.0.2f1.exe 99380b88f2f4c68ca0d8eb3ddfd87a754255e839
-	w_download http://netstorage.unity3d.com/unity/3757309da7e7/UnityDownloadAssistant-5.2.2f1.exe 5d0a84d3863235cc37e7cd260da321171d4a968f
+	w_download http://download.unity3d.com/download_unity/3757309da7e7/UnityDownloadAssistant-5.2.2f1.exe 5d0a84d3863235cc37e7cd260da321171d4a968f
 
 	cd "$W_CACHE/$W_PACKAGE"
 
